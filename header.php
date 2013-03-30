@@ -31,6 +31,7 @@
 	
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
 	<link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/favicon.ico">
+    <link rel="apple-touch-icon" href="<? echo get_template_directory_uri(); ?>/apple-touch-icon.png">
 	
 	<!-- Profile -->
 	<link rel="profile" href="http://gmpg.org/xfn/11" />

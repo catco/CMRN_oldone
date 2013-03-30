@@ -132,8 +132,8 @@ function commenter_link() {
 define('NO_HEADER_TEXT', true );
 define('HEADER_TEXTCOLOR', '');
 define('HEADER_IMAGE', '%s/images/logo.jpg'); // %s is the template dir uri
-define('HEADER_IMAGE_WIDTH', 300); // use width and height appropriate for your theme
-define('HEADER_IMAGE_HEIGHT', 70);
+define('HEADER_IMAGE_WIDTH', 193); // use width and height appropriate for your theme
+define('HEADER_IMAGE_HEIGHT', 100);
 
 function lugada_header_style() {
     ?><style type="text/css">
