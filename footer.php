@@ -43,7 +43,7 @@
 		 <?php /* "It is completely optional, but if you like the Theme I would appreciate it if you keep the credit link at the bottom." */ ?>
 		<div class="row copyrightarea">
 			<div class="column-full">
-				Designed by <a href="<?php echo 'http://www.illuminatheme.com'; ?>" title="Illuminatheme - simply illuminate" target="_blank">illuminatheme.com</a>. Powered with <a href="<?php echo 'http://www.wordpress.org/'; ?>" title="www.wordpress.com">WordPress</a>
+				Designed by <a href="<?php echo 'http://www.webspirits.be'; ?>" title="Catherine Corbesier" target="_blank">Catherine Corbesier</a>. Powered with <a href="<?php echo 'http://www.wordpress.org/'; ?>" title="www.wordpress.com">WordPress</a>
 			</div>
 		</div>
 	</div>
